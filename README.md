@@ -9,7 +9,7 @@
 
 
 <!-- ── ANIMATED NAME ── -->
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=10&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=VANSHIKA+RAINA" alt="Vanshika Raina"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=80&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=VANSHIKA+RAINA" alt="Vanshika Raina"/>
 
 <br/>
 
