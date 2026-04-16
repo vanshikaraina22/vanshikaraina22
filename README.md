@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="YOUR_GIF_URL_HERE" width="100%" alt="Minecraft Cherry Blossom Build"/>
+<img src="https://github.com/vanshikaraina22/vanshikaraina22/blob/main/From%20KlickPin%20CF%20Pin%20on%20Quick%20Saves.gif?raw=true" width="100%" alt="Minecraft Cherry Blossom Build"/>
 
 ---
 
@@ -42,13 +42,12 @@
 ```yaml
 ╔══════════════════════════════════════════════════════════════╗
 ║  Player    :  Vanshika Raina                                 ║
-║  Location  :  Mysore, Karnataka 🇮🇳                         ║
+║  Location  :  Mysore, Karnataka 🇮🇳                           ║
 ║  Guild     :  NIE Mysore — Computer Science & Engg '27       ║
-║  Level     :  Pre-Final Year                                 ║
-║  CGPA      :  8.53 ⭐                                        ║
+║  Level     :  Pre-Final Year                                 ║                                       ║
 ║  Mode      :  Survival  (Hardcore)                           ║
 ║  Quest     :  Crafting scalable full-stack & AI apps         ║
-║  Fuel      :  ☕ Coffee → 💻 Clean Code                      ║
+║  Fuel      :  ☕ Coffee → 💻 Clean Code                     ║
 ║  Status    :  Open to internships & collabs 🚀               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
