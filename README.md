@@ -1,17 +1,3 @@
-<!--
-=======================================================
-  VANSHIKA RAINA — GitHub Profile README
-  Survival Mode · Cherry Blossom Edition
-=======================================================
-  SETUP (do this once):
-  1. Upload your GIF to the root of this repo and name it:
-     cherry.gif
-  2. Your username is vanshikaraina22 — all stat URLs
-     already use it.
-  3. Update your LinkedIn URL below.
-=======================================================
--->
-<!-- ── ANIMATED SPLASH (gold bouncing line) ── -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=26&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=Also+try+Cherry+Blossom+Biome!;She+mines+bugs+for+fun!;Ships+faster+than+a+minecart!;Runs+on+coffee+%26+commits!;Not+all+heroes+wear+capes." alt="Splash"/>
 
@@ -20,6 +6,7 @@
 <img src="https://github.com/vanshikaraina22/vanshikaraina22/blob/main/From%20KlickPin%20CF%20Pin%20on%20Quick%20Saves.gif?raw=true" width="80%" alt="Minecraft Cherry Blossom Cave"/>
 
 <br/>
+
 
 <!-- ── ANIMATED NAME ── -->
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=10&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=VANSHIKA+RAINA" alt="Vanshika Raina"/>
@@ -218,7 +205,7 @@ Git, Cursor AI, agentic workflows. Ship fast, ship right.
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vanshika22raina@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vanshikaraina/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshikaraina/)
 
 </div>
 
