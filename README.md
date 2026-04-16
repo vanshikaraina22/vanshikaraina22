@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- ── HERO GIF ── -->
-<img src="https://raw.githubusercontent.com/vanshikaraina22/vanshikaraina22/main/cherry.gif" width="100%" alt="Minecraft Cherry Blossom Cave"/>
+<img src="https://github.com/vanshikaraina22/vanshikaraina22/blob/main/From%20KlickPin%20CF%20Pin%20on%20Quick%20Saves.gif?raw=true" width="80%" alt="Minecraft Cherry Blossom Cave"/>
 
 <br/>
 
