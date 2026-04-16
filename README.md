@@ -34,7 +34,7 @@
 <!-- ── SOCIAL BADGES ── -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshikaraina/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshikaraina22)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshika22raina@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vanshika22raina@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://vanshikarainaportfolio.netlify.app/)
 
 <br/>
@@ -219,7 +219,7 @@ Git, Cursor AI, agentic workflows. Ship fast, ship right.
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-vanshika22raina%40gmail.com-5DBB63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vanshika22raina@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/🔗_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vanshikaraina22)
+[![LinkedIn](https://img.shields.io/badge/🔗_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vanshikaraina/)
 
 </div>
 
