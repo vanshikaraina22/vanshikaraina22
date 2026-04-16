@@ -35,7 +35,6 @@ Player    :  Vanshika Raina
 Location  :  Mysore, Karnataka 🇮🇳
 Guild     :  NIE Mysore — Computer Science & Engg 2027
 Level     :  Pre-Final Year
-CGPA      :  8.53
 Mode      :  Survival (Hardcore)
 Quest     :  Building scalable full-stack & AI-powered apps
 Status    :  Open to internships & collabs
