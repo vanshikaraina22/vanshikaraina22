@@ -1,19 +1,40 @@
+<!--
+=======================================================
+  VANSHIKA RAINA — GitHub Profile README
+  Survival Mode · Cherry Blossom Edition
+=======================================================
+  SETUP (do this once):
+  1. Upload your GIF to the root of this repo and name it:
+     cherry.gif
+  2. Your username is vanshikaraina22 — all stat URLs
+     already use it.
+  3. Update your LinkedIn URL below.
+=======================================================
+-->
+
 <div align="center">
 
-<img src="https://github.com/vanshikaraina22/vanshikaraina22/blob/main/From%20KlickPin%20CF%20Pin%20on%20Quick%20Saves.gif?raw=true" width="100%" alt="Minecraft Cherry Blossom Cave" />
+<!-- ── HERO GIF ── -->
+<img src="https://raw.githubusercontent.com/vanshikaraina22/vanshikaraina22/main/cherry.gif" width="100%" alt="Minecraft Cherry Blossom Cave"/>
 
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a3a1a&height=3&section=header)
-
-### 🌸 *Also try Cherry Blossom Biome!* 🌸
-
-<br/>
-
-![name](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=VANSHIKA%20RAINA&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Pre-Final%20Year%20CS%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Builder%20%7C%20Open%20Source%20Contributor&descSize=14&descAlignY=85&descColor=5DBB63)
+<!-- ── ANIMATED SPLASH (gold bouncing line) ── -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&text=%F0%9F%8C%B8%20Also%20try%20Cherry%20Blossom%20Biome!&fontSize=22&fontColor=FFD700&animation=twinkling&fontAlignY=70" alt="Splash"/>
 
 <br/>
 
+<!-- ── ANIMATED NAME ── -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&text=VANSHIKA%20RAINA&fontSize=55&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Vanshika Raina"/>
+
+<br/>
+
+<!-- ── ANIMATED ROLE TYPEWRITER ── -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&text=%E2%9A%92%20Pre-Final%20Year%20CS%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Builder&fontSize=13&fontColor=5DBB63&fontAlignY=60&animation=fadeIn" alt="Role"/>
+
+<br/><br/>
+
+<!-- ── SOCIAL BADGES ── -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshikaraina22)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshikaraina22)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshika22raina@gmail.com)
@@ -24,8 +45,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 📋 &nbsp; `[ F3 ]` &nbsp; DEBUG — PLAYER INFO
@@ -33,11 +52,13 @@
 ```yaml
 Player    :  Vanshika Raina
 Location  :  Mysore, Karnataka 🇮🇳
-Guild     :  NIE Mysore — Computer Science & Engg 2027
+Guild     :  NIE Mysore — CSE '27
 Level     :  Pre-Final Year
+CGPA      :  8.53 ⭐
 Mode      :  Survival (Hardcore)
-Quest     :  Building scalable full-stack & AI-powered apps
-Status    :  Open to internships & collabs
+Quest     :  Crafting scalable full-stack & AI apps
+Fuel      :  ☕ Coffee → 💻 Clean Code
+Status    :  Open to internships & collabs 🚀
 ```
 
 ---
@@ -46,38 +67,32 @@ Status    :  Open to internships & collabs
 
 <div align="center">
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOCA0IDgtNFY3bC04IDQtOC00eiIvPjwvc3ZnPg==&logoColor=white)
+<table>
+<tr>
+<td align="center" width="130"><sub><b>FRONTEND</b></sub><br/>⚛️ React.js</td>
+<td align="center" width="130"><sub><b>FRONTEND</b></sub><br/>🟨 JavaScript</td>
+<td align="center" width="130"><sub><b>FRONTEND</b></sub><br/>🌊 Tailwind CSS</td>
+<td align="center" width="130"><sub><b>FRONTEND</b></sub><br/>🌐 HTML5</td>
+</tr>
+<tr>
+<td align="center"><sub><b>BACKEND</b></sub><br/>🟢 Node.js</td>
+<td align="center"><sub><b>BACKEND</b></sub><br/>🚂 Express.js</td>
+<td align="center"><sub><b>BACKEND</b></sub><br/>☕ Java</td>
+<td align="center"><sub><b>BACKEND</b></sub><br/>🍃 Spring Boot</td>
+</tr>
+<tr>
+<td align="center"><sub><b>AI/ML</b></sub><br/>🔶 TensorFlow</td>
+<td align="center"><sub><b>AI/ML</b></sub><br/>🧠 Keras / CNN</td>
+<td align="center"><sub><b>AI/ML</b></sub><br/>🐍 Python</td>
+<td align="center"><sub><b>DATABASE</b></sub><br/>🐬 MySQL</td>
+</tr>
+<tr>
+<td align="center"><sub><b>DATABASE</b></sub><br/>🍃 MongoDB</td>
+<td align="center"><sub><b>TOOLS</b></sub><br/>🐙 Git/GitHub</td>
+<td align="center"><sub><b>TOOLS</b></sub><br/>📮 Postman</td>
+<td align="center"><sub><b>TOOLS</b></sub><br/>🤖 Cursor AI</td>
+</tr>
+</table>
 
 </div>
 
@@ -85,33 +100,84 @@ Status    :  Open to internships & collabs
 
 ## 🗺️ &nbsp; `[ M ]` &nbsp; BIOME MAP — EXPERTISE
 
-```
-+---------------------------------------------------------------------+
-|                                                                     |
-|  [ 🌲 DSA FOREST ]          [ 🏔️  SYSTEM DESIGN PEAKS ]            |
-|    150+ problems solved        Scalable APIs, OOP, OS, Networks     |
-|                                                                     |
-|  [ 🌊 FULL-STACK OCEAN ]    [ 🔮 AI/ML NETHER ]                     |
-|    React  <->  Node.js         CNNs, TensorFlow, Prompt Engg        |
-|                                                                     |
-|  [ 🏰 OPEN SOURCE ]          [ ⚡ CLEAN CODE VILLAGE ]              |
-|    Blockchain, GSSoC, WoB      Git, Cursor AI, Ship fast            |
-|                                                                     |
-+---------------------------------------------------------------------+
-                   >> You are here: Building everything. <<
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>🌲</h3>
+<sub><b>DSA FOREST</b></sub><br/>
+150+ problems solved. Trees, graphs, dynamic paths.
+</td>
+<td width="50%" align="center">
+<h3>🏔️</h3>
+<sub><b>SYSTEM DESIGN PEAKS</b></sub><br/>
+Scalable architecture. RESTful APIs. OOP cores.
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>🌊</h3>
+<sub><b>FULL-STACK OCEAN</b></sub><br/>
+React, Node, Spring Boot. Frontend meets backend.
+</td>
+<td align="center">
+<h3>🔮</h3>
+<sub><b>AI/ML NETHER</b></sub><br/>
+CNNs, TensorFlow, prompt engineering & inference.
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>🏰</h3>
+<sub><b>OPEN SOURCE STRONGHOLD</b></sub><br/>
+Blockchain smart contracts. GirlScript SoC. WoB.
+</td>
+<td align="center">
+<h3>⚡</h3>
+<sub><b>CLEAN CODE VILLAGE</b></sub><br/>
+Git, Cursor AI, agentic workflows. Ship fast, ship right.
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🏆 &nbsp; `[ L ]` &nbsp; ACHIEVEMENTS UNLOCKED
 
-| Badge | Tier | Achievement |
-|-------|------|-------------|
-| ⭐ | `GOLD` | **Six Star Slayer** — 6★ Problem Solving on HackerRank |
-| 💎 | `DIAMOND` | **Block Grinder** — 150+ DSA problems crushed |
-| 📜 | `IRON` | **Certified Crafter** — HackerRank: Problem Solving, JS & React |
-| ⛓️ | `GOLD` | **Chain Builder** — Blockchain open-source contributor |
-| 🌸 | `EMERALD` | **Guild Member** — GirlScript SoC & Winter of Blockchain |
+<div align="center">
+
+<table>
+<tr>
+<td width="60" align="center">⭐</td>
+<td><sub><b>SIX STAR SLAYER</b></sub><br/>Earned 6★ rating in Problem Solving on HackerRank</td>
+<td align="right"><b><code>GOLD</code></b></td>
+</tr>
+<tr>
+<td align="center">🧱</td>
+<td><sub><b>BLOCK GRINDER</b></sub><br/>Crushed 150+ DSA problems across LeetCode, HackerRank & GFG</td>
+<td align="right"><b><code>DIAMOND</code></b></td>
+</tr>
+<tr>
+<td align="center">📜</td>
+<td><sub><b>CERTIFIED CRAFTER</b></sub><br/>HackerRank certs in Problem Solving, JavaScript & React</td>
+<td align="right"><b><code>IRON</code></b></td>
+</tr>
+<tr>
+<td align="center">⛓️</td>
+<td><sub><b>CHAIN BUILDER</b></sub><br/>Contributed to blockchain open-source — smart contracts & debugging</td>
+<td align="right"><b><code>GOLD</code></b></td>
+</tr>
+<tr>
+<td align="center">🌸</td>
+<td><sub><b>GUILD MEMBER</b></sub><br/>GirlScript Summer of Code & Winter of Blockchain contributor</td>
+<td align="right"><b><code>EMERALD</code></b></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -119,13 +185,13 @@ Status    :  Open to internships & collabs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanshikaraina22&show_icons=true&theme=merko&title_color=5DBB63&icon_color=5DBB63&text_color=ffffff&bg_color=0d1117&border_color=5DBB63&hide_border=false" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanshikaraina22&show_icons=true&theme=merko&title_color=5DBB63&icon_color=5DBB63&text_color=ffffff&bg_color=0d1117&border_color=5DBB63" height="170" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaraina22&layout=compact&theme=merko&title_color=5DBB63&text_color=ffffff&bg_color=0d1117&border_color=5DBB63" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vanshikaraina22&theme=merko&background=0D1117&ring=5DBB63&fire=FFD700&currStreakLabel=5DBB63&sideLabels=5DBB63&dates=888888&border=5DBB63" height="170" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=vanshikaraina22&theme=merko&background=0D1117&ring=5DBB63&fire=FFD700&currStreakLabel=5DBB63&sideLabels=5DBB63&dates=888888&border=5DBB63" height="170" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -155,9 +221,9 @@ Status    :  Open to internships & collabs
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email_Me-vanshika22raina%40gmail.com-5DBB63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vanshika22raina@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-vanshika22raina%40gmail.com-5DBB63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vanshika22raina@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vanshikaraina22)
+[![LinkedIn](https://img.shields.io/badge/🔗_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vanshikaraina22)
 
 </div>
 
@@ -165,8 +231,10 @@ Status    :  Open to internships & collabs
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:1a3a1a,100:0d1117&height=3)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a3a1a,100:0d1117&height=6&section=footer" width="100%"/>
 
-*Vanshika Raina · NIE Mysore · CSE 2027 · Built with ❤️ and way too many grass blocks* 🌿
+*Vanshika Raina · NIE Mysore · CSE 2027*
+
+*Built with ❤️ and way too many grass blocks* 🌿
 
 </div>
