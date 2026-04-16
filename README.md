@@ -11,7 +11,10 @@
   3. Update your LinkedIn URL below.
 =======================================================
 -->
+<!-- ── ANIMATED SPLASH (gold bouncing line) ── -->
+<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=26&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=Also+try+Cherry+Blossom+Biome!;She+mines+bugs+for+fun!;Ships+faster+than+a+minecart!;Runs+on+coffee+%26+commits!;Not+all+heroes+wear+capes." alt="Splash"/>
 
+<br/>
 <div align="center">
 
 <!-- ── HERO GIF ── -->
@@ -19,13 +22,8 @@
 
 <br/>
 
-<!-- ── ANIMATED SPLASH (gold bouncing line) ── -->
-<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=26&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=Also+try+Cherry+Blossom+Biome!;She+mines+bugs+for+fun!;Ships+faster+than+a+minecart!;Runs+on+coffee+%26+commits!;Not+all+heroes+wear+capes." alt="Splash"/>
-
-<br/>
-
 <!-- ── ANIMATED NAME ── -->
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=VANSHIKA+RAINA" alt="Vanshika Raina"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=5&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=VANSHIKA+RAINA" alt="Vanshika Raina"/>
 
 <br/>
 
