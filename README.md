@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vanshikaraina22/vanshikaraina22/main/From_KlickPin_CF_Pin_on_Quick_Saves.gif" width="100%" alt="Minecraft Cherry Blossom Cave" />
+<img src="https://github.com/vanshikaraina22/vanshikaraina22/blob/main/From%20KlickPin%20CF%20Pin%20on%20Quick%20Saves.gif?raw=true" width="100%" alt="Minecraft Cherry Blossom Cave" />
 
 <br/>
 
