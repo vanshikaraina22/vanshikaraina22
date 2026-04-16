@@ -217,8 +217,7 @@ Git, Cursor AI, agentic workflows. Ship fast, ship right.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-vanshika22raina%40gmail.com-5DBB63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vanshika22raina@gmail.com)
-&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vanshika22raina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vanshikaraina/)
 
 </div>
