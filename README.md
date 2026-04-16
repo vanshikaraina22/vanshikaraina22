@@ -25,7 +25,7 @@
 <br/>
 
 <!-- ── ANIMATED NAME ── -->
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=VANSHIKA+RAINA" alt="Vanshika Raina"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=VANSHIKA+RAINA" alt="Vanshika Raina"/>
 
 <br/>
 
@@ -105,7 +105,7 @@ Status    :  Open to internships & collabs 🚀
 <td width="50%" align="center">
 <h3>🌲</h3>
 <sub><b>DSA FOREST</b></sub><br/>
-150+ problems solved. Trees, graphs, dynamic paths.
+200+ problems solved. Trees, graphs, dynamic paths.
 </td>
 <td width="50%" align="center">
 <h3>🏔️</h3>
@@ -155,7 +155,7 @@ Git, Cursor AI, agentic workflows. Ship fast, ship right.
 </tr>
 <tr>
 <td align="center">🧱</td>
-<td><sub><b>BLOCK GRINDER</b></sub><br/>Crushed 150+ DSA problems across LeetCode, HackerRank & GFG</td>
+<td><sub><b>BLOCK GRINDER</b></sub><br/>Crushed 200+ DSA problems across LeetCode, HackerRank & GFG</td>
 <td align="right"><b><code>DIAMOND</code></b></td>
 </tr>
 <tr>
