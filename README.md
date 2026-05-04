@@ -167,12 +167,6 @@ Git, Cursor AI, agentic workflows. Ship fast, ship right.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanshikaraina22&show_icons=true&theme=merko&title_color=5DBB63&icon_color=5DBB63&text_color=ffffff&bg_color=0d1117&border_color=5DBB63" height="170" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaraina22&layout=compact&theme=merko&title_color=5DBB63&text_color=ffffff&bg_color=0d1117&border_color=5DBB63" height="170" alt="Top Languages"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=vanshikaraina22&theme=merko&background=0D1117&ring=5DBB63&fire=FFD700&currStreakLabel=5DBB63&sideLabels=5DBB63&dates=888888&border=5DBB63" height="170" alt="GitHub Streak"/>
 
 <br/><br/>
