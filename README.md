@@ -14,7 +14,7 @@
 <br/>
 
 <!-- ── ANIMATED ROLE TYPEWRITER ── -->
-<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=22&duration=3000&pause=800&color=5DBB63&center=true&vCenter=true&width=600&lines=Pre-Final+Year+CS+Engineer;Full-Stack+%26+AI+Builder;Crafting+Code+Block+by+Block;Open+Source+Contributor;Survival+Mode%3A+ACTIVE" alt="Role"/>
+<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=22&duration=3000&pause=800&color=5DBB63&center=true&vCenter=true&width=600&lines=Final+Year+CS+Engineer;Full-Stack+%26+AI+Builder;Crafting+Code+Block+by+Block;Open+Source+Contributor;Survival+Mode%3A+ACTIVE" alt="Role"/>
 
 <br/><br/>
 
